@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">CWC</string>
+    <string name="clkImageBU">Click More Image</string>
+    <string name="sendImageBu">Send</string>
+    <string name="title_activity_done">DoneActivity</string>
+    <string name="fetch_loc">Fetching Location</string>
+    <string name="title_activity_cwcmaps">CWC</string>
+    <string name="sendMessage">SEND MESSAGE</string>
+    <string name="writeMessage">Write message .......</string>
+    <string name="done_text">Done</string>
+    <string name="errMsg">Data Shall Be Uploaded On
+        Network Availability.
+    </string>
+    <string name="Continue_With_Google">Continue with Google</string>
+</resources>

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:tools="http://schemas.android.com/tools"
+              android:orientation="horizontal"
+              android:layout_width="match_parent"
+              android:layout_height="wrap_content">
+
+    <LinearLayout android:layout_width="match_parent"
+                  android:layout_height="80dp"
+                  android:layout_marginLeft="10dp"
+                  android:layout_marginRight="10dp"
+                  android:layout_marginTop="20dp"
+                  android:background="@drawable/contact_list_background"
+                  android:orientation="horizontal">
+        <LinearLayout android:layout_width="wrap_content"
+                      android:layout_height="match_parent"
+                      android:layout_marginLeft="20dp"
+                      android:layout_marginTop="6dp"
+                      android:layout_weight="6"
+                      android:orientation="vertical">
+
+            <TextView
+                    tools:text="XYZ Police station"
+                    android:textColor="@color/colorPrimaryDark"
+                    android:textStyle="bold"
+                    android:textSize="20sp"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:id="@+id/placeName"/>
+            <TextView
+                    tools:text="886252452"
+                    android:textSize="20sp"
+                    android:textColor="@color/colorPrimaryDark"
+                    android:layout_width="match_parent"
+                    android:layout_weight="1"
+                    android:layout_height="0dp"
+                    android:id="@+id/placeNumber"/>
+        </LinearLayout>
+        <ImageButton
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:background="#00ffffff"
+                app:srcCompat="@drawable/baseline_call_black_24"
+                android:id="@+id/phnButton"
+                android:layout_marginRight="20dp"
+                android:layout_weight="1"/>
+
+    </LinearLayout>
+</LinearLayout>

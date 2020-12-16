@@ -1,0 +1,133 @@
+{
+  "project_info": {
+    "project_number": "415453684714",
+    "firebase_url": "https://cwcfirebaseproject.firebaseio.com",
+    "project_id": "cwcfirebaseproject",
+    "storage_bucket": "cwcfirebaseproject.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:415453684714:android:d52ec46b05d80b6c",
+        "android_client_info": {
+          "package_name": "com.team.NEBULA.cwc"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "415453684714-lgvv1f954imp0p4nqb25lemkcc60oc8s.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.team.NEBULA.cwc",
+            "certificate_hash": "c79f1ee440301570ccb23510975701093638dfa6"
+          }
+        },
+        {
+          "client_id": "415453684714-5teed6mcnqvbtdu05tcfipgrqoo35f72.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.team.NEBULA.cwc",
+            "certificate_hash": "24996d57dea321aac13416fb2cc2bd2ace597c63"
+          }
+        },
+        {
+          "client_id": "415453684714-ngran9j23q4493i8qml6vsnttcub8ce7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.team.NEBULA.cwc",
+            "certificate_hash": "a906739e8c34a934c30889decf6720807538dabe"
+          }
+        },
+        {
+          "client_id": "415453684714-7ofa8vjfens5f5869rm45i3rsnqqducs.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.team.NEBULA.cwc",
+            "certificate_hash": "5a96a32f3ef4035e1e2938640b8d0411f3646ca2"
+          }
+        },
+        {
+          "client_id": "415453684714-ks6tpopp3agegvqp18qjcm1vu1vj7vol.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.team.NEBULA.cwc",
+            "certificate_hash": "991f727ae013e46ec326098322bd40190116d0c3"
+          }
+        },
+        {
+          "client_id": "415453684714-q2f2ia71p9pkivrpmdogmuhqsvh7fua1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.team.NEBULA.cwc",
+            "certificate_hash": "740cdb30663ca62a859c21560dca914675baaf33"
+          }
+        },
+        {
+          "client_id": "415453684714-7hpaqferoemrc1qsqd627nmji48fie5l.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.team.NEBULA.cwc",
+            "certificate_hash": "4f20f23f902d3119f2105a62f101fe448b105886"
+          }
+        },
+        {
+          "client_id": "415453684714-gdm829o5ohsi2apv5oma8qn15sd1enb3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBzHdBhTu6CI5aO_kx8FLaDdXBkAlhI-oo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "415453684714-gdm829o5ohsi2apv5oma8qn15sd1enb3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:415453684714:android:8cf01e6bd4b7d239",
+        "android_client_info": {
+          "package_name": "com.team.nebula.cwcserver"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "415453684714-5s2k47s7hm8p6n69ssda4uvgv6q3ornv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.team.nebula.cwcserver",
+            "certificate_hash": "4f20f23f902d3119f2105a62f101fe448b105886"
+          }
+        },
+        {
+          "client_id": "415453684714-gdm829o5ohsi2apv5oma8qn15sd1enb3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBzHdBhTu6CI5aO_kx8FLaDdXBkAlhI-oo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "415453684714-gdm829o5ohsi2apv5oma8qn15sd1enb3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

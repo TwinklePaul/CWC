@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<ripple xmlns:android="http://schemas.android.com/apk/res/android" android:color="@color/colorUpload">
+
+    <item>
+        <shape android:shape="rectangle">
+            <solid android:color="@color/colorUpload"/>
+        </shape>
+    </item>
+
+    <item android:drawable="@drawable/click_picture"
+
+          android:height="100dp"
+          android:width="100dp"
+          android:gravity="center"
+    />
+</ripple>

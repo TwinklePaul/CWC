@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">CWC</string>
+    <string name="clkImageBU">अधिक छवि कैप्चर करें</string>
+    <string name="sendImageBu">भेजना</string>
+    <string name="title_activity_done">पूर्ण</string>
+    <string name="fetch_loc">स्थान प्राप्त करना</string>
+    <string name="title_activity_cwcmaps">CWC</string>
+    <string name="sendMessage">मेसेज भेजें</string>
+    <string name="writeMessage">संदेश लिखो ....... </string>
+    <string name="done_text">पूर्ण</string>
+    <string name="Continue_With_Google">जारी रखें Google के साथ</string>
+    <string name="errMsg">डेटा पर अपलोड किया जाएगा
+        नेटवर्क उपलब्धता।</string>
+</resources>

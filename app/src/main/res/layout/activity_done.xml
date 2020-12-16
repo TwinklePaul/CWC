@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:app="http://schemas.android.com/apk/res-auto"
+        xmlns:tools="http://schemas.android.com/tools"
+        android:layout_width="match_parent"
+        android:background="@color/colorPrimaryDark"
+        android:layout_height="match_parent"
+        tools:context=".success.DoneActivity">
+
+    <androidx.appcompat.widget.Toolbar
+            android:id="@+id/toolbar"
+            app:title="CWC"
+            app:titleTextColor="@color/colorWhite"
+            android:layout_width="match_parent"
+            android:layout_height="?attr/actionBarSize"
+            app:layout_collapseMode="pin"
+            app:popupTheme="@style/AppTheme.PopupOverlay"
+            app:layout_constraintTop_toTopOf="parent" app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"/>
+
+    <ImageView android:layout_width="wrap_content"
+               android:layout_height="wrap_content"
+               android:layout_gravity="center"
+               android:fitsSystemWindows="true"
+               android:scaleType="centerCrop"
+               app:layout_collapseMode="parallax"
+               android:background="@drawable/tick_done"
+               app:layout_constraintEnd_toEndOf="parent" app:layout_constraintTop_toTopOf="parent"
+               app:layout_constraintStart_toStartOf="parent" app:layout_constraintBottom_toBottomOf="parent"
+               android:id="@+id/imageView"/>
+
+    <TextView
+            android:text="@string/done_text"
+            android:textSize="20dp"
+            android:padding="20dp"
+            android:layout_gravity="center"
+            android:textStyle="bold"
+            android:textColor="@color/colorWhite"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent" android:layout_marginTop="24dp"
+            app:layout_constraintTop_toBottomOf="@+id/imageView" app:layout_constraintHorizontal_bias="0.498"/>
+</androidx.constraintlayout.widget.ConstraintLayout>
